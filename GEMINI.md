@@ -3,7 +3,7 @@
 > **Event:** Google Cloud AI Builder Cup 2026 (JAPAC)  
 > **Track:** Sustainability & Social Impact (Emergency Preparedness & Resilient Mobility)  
 > **Author:** Hari Dhoni ([@haridhoni7](https://github.com/haridhoni7))  
-> **Repository:** [https://github.com/haridhoni7/LifeCorridor-Emergency-Transit-Clearance-Engine](https://github.com/haridhoni7/LifeCorridor-Emergency-Transit-Clearance-Engine)  
+> **Repository:** [https://github.com/haridhoni7/LifeCorridor-Emergency-Transit-Clearance-Engine---Hari](https://github.com/haridhoni7/LifeCorridor-Emergency-Transit-Clearance-Engine---Hari)  
 > **Evaluation Focus:** Technical Merit (40%), Problem Alignment (25%), Innovation (25%), UX (10%)  
 
 ---
