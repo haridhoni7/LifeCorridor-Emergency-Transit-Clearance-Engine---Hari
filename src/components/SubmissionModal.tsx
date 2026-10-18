@@ -137,34 +137,34 @@ firebase deploy --only hosting`;
 
         {/* Modal Body */}
         <div className="p-6 overflow-y-auto space-y-6 text-xs text-slate-300">
-          {/* Important Notice: Why GitHub is 404 */}
-          <div className="p-4 rounded-lg bg-amber-950/40 border border-amber-500/50 text-amber-200">
+          {/* Target GitHub Repository Sync Guidance */}
+          <div className="p-4 rounded-lg bg-cyan-950/40 border border-cyan-500/50 text-cyan-200">
             <div className="flex items-start gap-3">
-              <AlertTriangle className="w-5 h-5 text-amber-400 shrink-0 mt-0.5" />
+              <Github className="w-5 h-5 text-cyan-400 shrink-0 mt-0.5" />
               <div className="space-y-1.5 flex-1">
-                <div className="font-bold text-sm text-amber-300">
-                  Why is https://github.com/haridhoni7/lifecorridor showing 404?
+                <div className="font-bold text-sm text-cyan-300">
+                  Target GitHub Repository: https://github.com/haridhoni7/LifeCorridor-Emergency-Transit-Clearance-Engine
                 </div>
                 <p className="text-xs text-slate-300 leading-relaxed">
-                  GitHub shows a <strong>404 Not Found</strong> page until the repository is created under your account on GitHub. All code files (FastAPI backend, Gemini AI SDK, React HUD, Dockerfile, README.md, GEMINI.md) are generated and ready.
+                  You can sync all source code (React HUD, Gemini AI SDK, Python FastAPI Backend, Dockerfile, GEMINI.md, and README.md) directly to your friend's repository using Option A below or through your local terminal using Option B.
                 </p>
                 <div className="pt-2 flex flex-wrap gap-2">
                   <a
-                    href="https://github.com/new?name=lifecorridor"
+                    href="https://github.com/haridhoni7/LifeCorridor-Emergency-Transit-Clearance-Engine"
                     target="_blank"
                     rel="noreferrer"
-                    className="inline-flex items-center gap-1.5 px-3 py-1.5 bg-amber-500 hover:bg-amber-400 text-slate-950 font-bold rounded text-xs transition-colors shadow-sm"
+                    className="inline-flex items-center gap-1.5 px-3 py-1.5 bg-cyan-600 hover:bg-cyan-500 text-white font-bold rounded text-xs transition-colors shadow-sm"
                   >
-                    <span>1. Click Here to Create 'lifecorridor' on GitHub</span>
+                    <span>Open GitHub Repository</span>
                     <ExternalLink className="w-3.5 h-3.5" />
                   </a>
                   <a
                     href="/api/download-zip"
-                    download="lifecorridor-source.zip"
+                    download="LifeCorridor-source.zip"
                     className="inline-flex items-center gap-1.5 px-3 py-1.5 bg-slate-800 hover:bg-slate-700 text-slate-200 font-semibold rounded text-xs transition-colors border border-slate-700"
                   >
                     <Download className="w-3.5 h-3.5 text-cyan-400" />
-                    <span>Download Project ZIP (81 KB)</span>
+                    <span>Download Project ZIP</span>
                   </a>
                 </div>
               </div>

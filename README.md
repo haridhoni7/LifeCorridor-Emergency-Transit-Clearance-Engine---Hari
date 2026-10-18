@@ -3,7 +3,7 @@
 > Built for the **Google Cloud AI Builder Cup 2026 (JAPAC)**  
 > **Track:** Sustainability & Social Impact (Emergency Preparedness & Resilient Mobility)  
 > **Developer:** Hari Dhoni ([@haridhoni7](https://github.com/haridhoni7))  
-> **Repository:** [https://github.com/haridhoni7/lifecorridor](https://github.com/haridhoni7/lifecorridor)
+> **Repository:** [https://github.com/haridhoni7/LifeCorridor-Emergency-Transit-Clearance-Engine](https://github.com/haridhoni7/LifeCorridor-Emergency-Transit-Clearance-Engine)
 
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Cloud%20Run-4285F4?logo=googlecloud&logoColor=white)](https://cloud.google.com/run)
 [![Gemini 2.0 Flash](https://img.shields.io/badge/Gemini%202.0-Multimodal%20AI-8E75B2?logo=google&logoColor=white)](https://ai.google.dev/)
@@ -14,9 +14,8 @@
 
 ## 📌 Live Deployment & Submissions
 
-* **Live Prototype Web Application:** [https://lifecorridor.web.app](https://lifecorridor.web.app)
-* **Cloud Run Backend API:** [https://lifecorridor-api-uc.a.run.app/docs](https://lifecorridor-api-uc.a.run.app/docs)
-* **GitHub Repository:** [https://github.com/haridhoni7/lifecorridor](https://github.com/haridhoni7/lifecorridor)
+* **Live Interactive Web Application:** [https://ais-pre-457v47uvvrc5y327bymjjr-214318149492.asia-southeast1.run.app](https://ais-pre-457v47uvvrc5y327bymjjr-214318149492.asia-southeast1.run.app)
+* **GitHub Repository:** [https://github.com/haridhoni7/LifeCorridor-Emergency-Transit-Clearance-Engine](https://github.com/haridhoni7/LifeCorridor-Emergency-Transit-Clearance-Engine)
 * **3.5-Minute Demonstration Video:** [https://youtu.be/LifeCorridor-Demo-2026](https://youtu.be/LifeCorridor-Demo-2026)
 
 ---
